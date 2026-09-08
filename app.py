@@ -1,5 +1,5 @@
 a = 15
 b = 12
-c=16
-res = a + b
+c=20
+res = a + b +c
 print(res)
